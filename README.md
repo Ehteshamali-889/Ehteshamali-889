@@ -20,3 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehteshamali-889&layout=compact)](https://github.com/Ehteshamali-889/github-readme-stats)
 
 [Ehtesham-on-Instagram](https://www.instagram.com/ehtesham.ali889/?hl=en)
+[Ehtesham-on-LinkedIn](https://www.linkedin.com/in/ehtesham-ali-8b83681b2/)
