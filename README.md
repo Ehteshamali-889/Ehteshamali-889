@@ -2,7 +2,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ehtesha29119904?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/Ehtesha29119904&screen_name=Ehtesha29119904)
-[Ehtesham-on-Instagram](https://www.instagram.com/ehtesham.ali889/?hl=en)
+
 
 ## I'm a Student, Developer, Influencer
 
@@ -18,3 +18,5 @@
 ![Ehtesham's github stats](https://github-readme-stats.vercel.app/api?username=Ehteshamali-889&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehteshamali-889&layout=compact)](https://github.com/Ehteshamali-889/github-readme-stats)
+
+[Ehtesham-on-Instagram](https://www.instagram.com/ehtesham.ali889/?hl=en)
