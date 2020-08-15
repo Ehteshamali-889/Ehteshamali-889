@@ -1,7 +1,7 @@
 ### Hi there, I'm Ehtesham - aka [webdeveloper] 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ehtesham Ali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/Ehtesha29119904&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ehtesha29119904?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/Ehtesha29119904&screen_name=codeSTACKr)
 
 ## I'm a Student, Developer, Influencer
 
