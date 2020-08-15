@@ -12,6 +12,6 @@
 - ⚡ Fun fact: I love to code
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehteshamali-889&layout=compact)](https://github.com/Ehteshamali-889/github-readme-stats)
-<br/>
 ![Ehtesham's github stats](https://github-readme-stats.vercel.app/api?username=Ehteshamali-889&show_icons=true&theme=radical)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehteshamali-889&layout=compact)](https://github.com/Ehteshamali-889/github-readme-stats)
