@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to code 
 ### Connect with me:
 
-[<img align="left" alt="webdeveloper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+<img align="left" alt="webdeveloper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 [<img align="left" alt="webdeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [<img align="left" alt="webdeveloper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
