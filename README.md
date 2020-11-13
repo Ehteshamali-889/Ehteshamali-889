@@ -3,9 +3,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ehtesha29119904?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/Ehtesha29119904&screen_name=Ehtesha29119904)
 <p align="center">
+
 ![](https://komarev.com/ghpvc/?username=Ehteshamali-889&color=blueviolet&label=Profile+Views)
 <a href="mailto:webdeveloper3628@gmail.com">
-<img  alt="justehmadsaeed@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+<img  alt="webdeveloper3628@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
 </p>
 
