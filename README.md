@@ -8,6 +8,10 @@
 <a href="mailto:webdeveloper3628@gmail.com">
 <img  alt="webdeveloper3628@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
+<a href="https://www.instagram.com/webdeveloper3628/">
+<img alt="@webdeveloper3628 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>  <a href="https://www.linkedin.com/in/ehtesham-ali-8b83681b2/">
+<img alt="Ehtesham Ali | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 ## I'm a Student, Developer, Influencer
