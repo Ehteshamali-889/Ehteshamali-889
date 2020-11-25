@@ -16,8 +16,6 @@
 
 ## I'm a Student, Developer, Influencer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
 - 🔭 I’m currently working on a making Projects
 - 🌱 I’m currently learning everything 🤣 specially web languages (to become Full Stack Web developer) 
 - 👯 I’m looking to collaborate with other content creators
