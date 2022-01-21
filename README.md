@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on a making Projects
 - 🌱 I’m currently learning everything 🤣 specially web languages (to become Full Stack Web developer) 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects, Reach 10k on Instagram 
+- 🥅 2022 Goals: Contribute more to Open Source projects, Reach 10k on Instagram 
 - ⚡ Fun fact: I love to code
 
 
