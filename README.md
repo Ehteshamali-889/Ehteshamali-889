@@ -6,7 +6,7 @@
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=Ehteshamali-889&color=blueviolet&label=Profile+Views)
-<a href="mailto:webdeveloper3628@gmail.com">
+<a href="mailto:ehteshamali1142@gmail.com">
 <img  alt="webdeveloper3628@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 </a>
 <a href="https://www.instagram.com/webdeveloper3628/">
