@@ -43,9 +43,9 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
-![Ehtesham's github stats](https://github-readme-stats.vercel.app/api?username=Ehteshamali-889&show_icons=true&theme=radical)
+![Ehtesham's github stats](https://github-readme-stats.vercel.app/api?username=EhteshamAli-889&show_icons=true&theme=radical)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehteshamali-889&layout=compact)](https://github.com/Ehteshamali-889/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhteshamAli-889&layout=compact)](https://github.com/Ehteshamali-889/github-readme-stats)
 
 [Ehtesham-on-Instagram](https://www.instagram.com/ehtesham.ali889/?hl=en)
 [Ehtesham-on-LinkedIn](https://www.linkedin.com/in/ehtesham-ali-8b83681b2/)
