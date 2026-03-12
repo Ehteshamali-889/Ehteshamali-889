@@ -1,8 +1,6 @@
 ### Hi there, I'm Ehtesham - aka [webdeveloper] 👋
-[My Social Media - KOJI](https://withkoji.com/@EHTESHAM_ALI)
 <br/>
-[LINKTREE](https://linktr.ee/Ehteshamali)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ehtesha29119904?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/Ehtesha29119904&screen_name=Ehtesha29119904)
+
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=Ehteshamali-889&color=blueviolet&label=Profile+Views)
@@ -11,8 +9,7 @@
 </a>
 <a href="https://www.instagram.com/webdeveloper3628/">
 <img alt="@webdeveloper3628 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>  <a href="https://www.linkedin.com/in/ehtesham-ali-8b83681b2/">
-<img alt="Ehtesham Ali | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
 </p>
 
 ## I'm a Student, Developer, Influencer
@@ -21,7 +18,7 @@
 - 🔭 I’m currently working on a making Projects
 - 🌱 I’m currently learning everything 🤣 specially web languages (to become Full Stack Web developer) 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects, Reach 10k on Instagram 
+- 🥅 2026 Goals: Contribute more to Open Source projects, Reach 10k on Instagram 
 - ⚡ Fun fact: I love to code
 
 
