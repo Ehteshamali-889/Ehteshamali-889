@@ -1,28 +1,20 @@
-### Hi there, I'm Ehtesham - aka [webdeveloper] 👋
-<br/>
+# Ehtesham Ali
 
-## I'm a Student, Developer, Influencer
-<img align="right" alt="GIF" src="coding-freak.gif" width="500" height="320" />
+Software Engineer with hands-on experience building scalable web and mobile applications across multiple industries. Skilled in full-stack development with strong expertise in backend systems, API integrations, and database design. Experienced in delivering business-focused solutions from concept to deployment, including admin panels, customer portals, and mobile apps. Comfortable working independently or with teams on fast-paced product development. Focused on writing clean, maintainable, and production-ready code.
 
-- 🔭 I’m currently working on building exciting projects
-- 🌱 I’m currently learning and exploring modern web technologies to become a Full Stack Developer
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2026 Goals: Contribute more to Open Source projects, Reach 10k on Instagram 
-- ⚡ Fun fact: I love turning ideas into professional digital experiences
+## Skills
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- **LAMP Stack** (Linux, Apache, MySQL, PHP)
+- **PERN Stack** (PostgreSQL, Express.js, React.js, Node.js)
+- **Mobile Development** using React Native
+- REST APIs, Database Design, Third-Party Integrations, Authentication, Admin Dashboards
 
-
-<br />
-
-### Languages & Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
+## Projects Worked On
+- **Management Systems** – Built internal business platforms for operations, workflow automation, and reporting.
+- **Ecommerce Platforms** – Developed scalable online stores with product management, payments, and order workflows.
+- **Real Estate Platforms** – Created property listing systems with search, filters, lead capture, and admin management.
+- **Cleaning Services Portals** – Built booking and service management systems with customer and staff workflows.
+- **Ireland Application Portal** – Developed a portal where users can apply for opportunities in Ireland with form workflows and admin review.
+- **Health Systems & Mobile Apps** – Worked on healthcare-focused systems and mobile applications for operational and user-facing needs.
+- **Email Deliverability Systems** – Built and optimized systems focused on email sending, inbox placement, and delivery performance.
+- **QA / Testing Platform** – Worked on a QA project similar to Kualitee for test case management, issue tracking, and reporting.
